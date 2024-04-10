@@ -40,6 +40,7 @@
 	{"object_types": ["way"], "key": "surface", "value": "paving_stones", "description": "🇳🇱 Verharding klinkers"},
 	{"object_types": ["way"], "key": "surface", "value": "concrete", "description": "🇳🇱 Verharding cementbeton"},
 	{"object_types": ["way"], "key": "surface", "value": "asphalt", "description": "🇳🇱 Verharding asfaltbeton"},
+	{"object_types": ["way"], "key": "surface", "value": "unpaved", "description": "🇳🇱 Onverharde weg"},
 	{"object_types": ["way"], "key": "operator", "value": "Rijkswaterstaat", "description": "🇳🇱 Wegbeheerder Rijkswaterstaat", "doc_url": "https://www.rijkswaterstaat.nl/", "icon_url": "https://raw.githubusercontent.com/FileradarBV/NWB2OSM-Taginfo/master/vlaggen/oorg12345.svg"},
 	{"object_types": ["way"], "key": "operator", "value": "Provincie Groningen", "description": "🇳🇱 Wegbeheerder Provincie Groningen", "doc_url": "https://www.provinciegroningen.nl/", "icon_url": "https://raw.githubusercontent.com/FileradarBV/NWB2OSM-Taginfo/master/vlaggen/pv20.svg"},
 	{"object_types": ["way"], "key": "operator", "value": "Provincie Fryslân", "description": "🇳🇱 Wegbeheerder Provincie Friesland", "doc_url": "https://www.fryslan.frl/", "icon_url": "https://raw.githubusercontent.com/FileradarBV/NWB2OSM-Taginfo/master/vlaggen/pv21.svg"},
