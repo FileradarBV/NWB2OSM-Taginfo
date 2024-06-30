@@ -56,6 +56,6 @@
 	{"object_types": ["way"], "key": "operator", "value": "Provincie Limburg", "description": "🇳🇱 Wegbeheerder Provincie Limburg", "doc_url": "https://www.limburg.nl/", "icon_url": "https://raw.githubusercontent.com/FileradarBV/NWB2OSM-Taginfo/master/vlaggen/pv31.svg"},
 	{"object_types": ["way"], "key": "operator", "value": "Staatsbosbeheer", "description": "🇳🇱 Wegbeheerder Staatsbosbeheer", "doc_url": "https://www.staatsbosbeheer.nl/"},
 	{"object_types": ["way"], "key": "operator", "value": "Havenbedrijf Rotterdam N.V.", "description": "🇳🇱 Wegbeheerder Havenbedrijf Rotterdam", "doc_url": "https://www.portofrotterdam.com/nl"},
-	{"object_types": ["way"], "key": "operator", "value": "North Sea Port", "description": "🇳🇱 Wegbeheerder North Sea Port", "doc_url": "https://www.northseaport.com/"},
+	{"object_types": ["way"], "key": "operator", "value": "North Sea Port Netherlands NV", "description": "🇳🇱 Wegbeheerder North Sea Port", "doc_url": "https://www.northseaport.com/"},
 	{"object_types": ["way"], "key": "operator", "value": "N.V. Westerscheldetunnel", "description": "🇳🇱 Wegbeheerder NV Westerscheldetunnel", "doc_url": "https://www.westerscheldetunnel.nl/nl/"},
 	{"object_types": ["way"], "key": "operator", "value": "N.V. PWN Waterleidingbedrijf Noord-Holland", "description": "🇳🇱 Wegbeheerder PWN Waterleidingbedr Noord-Holland", "doc_url": "https://www.pwn.nl/"}]}
