@@ -5,6 +5,7 @@
 	"description": "🇳🇱 Tags die Fileradar vanuit het Nationaal Wegenbestand (NWB) toevoegt aan OpenStreetMap (OSM). Wijzigingensets hebben hashtag #NWB2OSM.",
 	"project_url": "https://github.com/FileradarBV/NWB2OSM-Taginfo",
 	"doc_url": "https://github.com/FileradarBV/NWB2OSM-Taginfo/blob/master/README.md",
+	"icon_url": "https://raw.githubusercontent.com/FileradarBV/NWB2OSM-Taginfo/refs/heads/master/pictogram.png",
 	"contact_name": "dr.ir. Jeroen van der Gun (Fileradar)",
 	"contact_email": "jeroen@fileradar.nl"},
 "tags": [
