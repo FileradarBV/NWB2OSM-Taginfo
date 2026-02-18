@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imagery xmlns="http://josm.openstreetmap.de/maps-1.0">
+	<entry overlay="true">
+		<name>NWB wegvakken</name>
+		<id>NWB_WEGEN_WEGVAKKEN</id>
+		<category>map</category>
+		<description lang="en">NWB wegen - Wegvakken (RWS)</description>
+		<type>wms</type>
+		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/nwb_wegen/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=wegvakken&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>WEGGEG bebouwde kommen</name>
+		<id>WEGGEG_BEBOUWDE_KOMMEN</id>
+		<category>map</category>
+		<description lang="en">Wegkenmerk maximum snelheden met geometrie op wegvakniveau (RWS): bebouwde_kommen_wegvak</description>
+		<type>wms</type>
+		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/weggeg/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=weggeg:bebouwde_kommen_wegvak&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>WEGGEG wegcategorie formeel</name>
+		<id>WEGGEG_WEGCATEGORIE_FORMEEL</id>
+		<category>map</category>
+		<description lang="en">Wegkenmerk wegcategorie formeel met geometrie op wegvakniveau (RWS): wegcategorie_formeel_wegvak</description>
+		<type>wms</type>
+		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/weggeg/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=weggeg:wegcategorie_formeel_wegvak&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>WEGGEG maximum snelheden overdag</name>
+		<id>WEGGEG_MAXIMUM_SNELHEDEN_OVERDAG</id>
+		<category>map</category>
+		<description lang="en">Wegkenmerk maximum snelheden met geometrie op wegvakniveau (RWS): maximum_snelheden_wegvak_overdag</description>
+		<type>wms</type>
+		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/weggeg/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=weggeg:maximum_snelheden_wegvak_overdag&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>WEGGEG maximum snelheden nacht</name>
+		<id>WEGGEG_MAXIMUM_SNELHEDEN_NACHT</id>
+		<category>map</category>
+		<description lang="en">Wegkenmerk maximum snelheden met geometrie op wegvakniveau (RWS): maximum_snelheden_wegvak_nacht</description>
+		<type>wms</type>
+		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/weggeg/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=weggeg:maximum_snelheden_wegvak_nacht&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>KernGis beheersituatie</name>
+		<id>KERNGIS_BEHEERSITUATIE</id>
+		<category>map</category>
+		<description lang="en">Beheersituatie KernGis (vlakken)</description>
+		<type>wms</type>
+		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/kerngis_droog/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=kerngis_droog:beheergebied_vlakken&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Overijssel wegencategorisering</name>
+		<id>OVERIJSSEL_WEGENCATEGORISERING</id>
+		<category>map</category>
+		<description lang="en">Wegencategorisering op provinciale wegen</description>
+		<type>wms</type>
+		<url>https://services.geodataoverijssel.nl/geoserver/B22_wegen/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=B22_Wegencategorisering_op_provinciale_wegen_in_Overijssel&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Gelderland eigendomsgebied</name>
+		<id>GELDERLAND_EIGENDOMSGEBIED</id>
+		<category>map</category>
+		<description lang="en">Grenzen- Eigendomsgebied prov. wegen en gronden</description>
+		<type>wms</type>
+		<url>https://geoserver.gelderland.nl/geoserver/ngr_bow/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=GzEg_Eigendomsgebied&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Gelderland beheergebied</name>
+		<id>GELDERLAND_BEHEERGEBIED</id>
+		<category>map</category>
+		<description lang="en">Grenzen- Beheergebied provinciale wegen</description>
+		<type>wms</type>
+		<url>https://geoserver.gelderland.nl/geoserver/ngr_bow/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=GzEg_Beheergebied&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Utrecht beheergrens</name>
+		<id>UTRECHT_BEHEERGRENS</id>
+		<category>map</category>
+		<description lang="en">Beheergrens</description>
+		<type>wms</type>
+		<url>https://services.geodata-utrecht.nl/geoserver/v01_2_1_wegennet/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=Beheergrens&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Noord-Holland werkingsgebied</name>
+		<id>NOORDHOLLAND_WERKINGSGEBIED</id>
+		<category>map</category>
+		<description lang="en">Werkingsgebied - Provinciale wegen</description>
+		<type>wms</type>
+		<url>https://geoservices.noord-holland.nl:443/ags/services/oi_dataservice_povnh2020/MapServer/WmsServer?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=Provinciale_wegen2357&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Zuid-Holland onderhoudsgrens</name>
+		<id>ZUIDHOLLAND_ONDERHOUDSGRENS</id>
+		<category>map</category>
+		<description lang="en">Areaal beheer - Onderhoudsgrens wegen en vaarwegen - vlak</description>
+		<type>wms</type>
+		<url>https://geodata.zuid-holland.nl/geoserver/verkeer/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=ABS_W_ONDERHOUD_BEHEER_GRENS_VLAK&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Zeeland eigendoms- en beheergrens</name>
+		<id>ZEELAND_EIGENDOMS_EN_BEHEERGRENS</id>
+		<category>map</category>
+		<description lang="en">Eigendoms en beheergrenzen wegen Provincie Zeeland</description>
+		<type>wms</type>
+		<url>https://opengeodata.zeeland.nl/geoserver/Infra/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=geocst_bhrkrtgrzvlk_wgs&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Limburg beperkingenzone provinciale wegen</name>
+		<id>LIMBURG_BEPERKINGENGEBIED</id>
+		<category>map</category>
+		<description lang="en">INFRASTRUCTUUR.beperkingengebied_v</description>
+		<type>wms</type>
+		<url>https://portal.prvlimburg.nl/geodata/INFRASTRUCTUUR/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=BEPERKINGENGEBIED_V&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Limburg bebouwde kom</name>
+		<id>LIMBURG_BEBOUWDE_KOM</id>
+		<category>map</category>
+		<description lang="en">INFRASTRUCTUUR.bebouwde_kom_v</description>
+		<type>wms</type>
+		<url>https://portal.prvlimburg.nl/geodata/INFRASTRUCTUUR/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=BEBOUWDE_KOM_V&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Limburg toegestane maximum snelheid</name>
+		<id>LIMBURG_TOEGESTANE_MAXIMUM_SNELHEID</id>
+		<category>map</category>
+		<description lang="en">INFRASTRUCTUUR.max_snelheden_l</description>
+		<type>wms</type>
+		<url>https://portal.prvlimburg.nl/geodata/INFRASTRUCTUUR/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=MAX_SNELHEDEN_L&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+</imagery>
