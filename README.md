@@ -1,4 +1,4 @@
-[<picture><source media="(prefers-color-scheme: light)" srcset="logo.png"><source media="(prefers-color-scheme: dark)" srcset="logo_inv.png"><img alt="Fileradar" src="logo.png"></picture>](https://fileradar.nl/)
+[<picture><source media="(prefers-color-scheme: light)" srcset="afbeeldingen/logo.png"><source media="(prefers-color-scheme: dark)" srcset="afbeeldingen/logo_inv.png"><img alt="Fileradar" src="afbeeldingen/logo.png"></picture>](https://fileradar.nl/)
 
 NWB2OSM
 =======
