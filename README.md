@@ -10,6 +10,7 @@ Tags die Fileradar vanuit het Nationaal Wegenbestand (NWB) toevoegt aan OpenStre
 **[Lees meer over hoe en waarom Fileradar OpenStreetMap bewerkt](https://fileradar.nl/portfolio/bewerken-van-openstreetmap/)**
 
 Veel van de met NWB2OSM toegevoegde gegevens kunnen met [OpenNWB](https://github.com/FileradarBV/OpenNWB) worden gevisualiseerd.
+Ter controle kunnen [afbeeldingslagen in JOSM](josm/README.md) worden toegevoegd.
 
 Op zoek naar een verkeersnetwerk op maat?
 Fileradar is specialist in het werken met verkeersnetwerken.
