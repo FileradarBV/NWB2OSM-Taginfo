@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imagery xmlns="http://josm.openstreetmap.de/maps-1.0">
 	<entry overlay="true">
-		<name>NWB wegvakken</name>
+		<name>NWB wegbeheerder</name>
 		<id>NWB_WEGEN_WEGVAKKEN</id>
 		<category>map</category>
 		<description lang="en">NWB wegen - Wegvakken (RWS)</description>
@@ -13,7 +13,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>WEGGEG bebouwde kommen</name>
+		<name>WEGGEG bebouwde kom</name>
 		<id>WEGGEG_BEBOUWDE_KOMMEN</id>
 		<category>map</category>
 		<description lang="en">Wegkenmerk maximum snelheden met geometrie op wegvakniveau (RWS): bebouwde_kommen_wegvak</description>
@@ -25,7 +25,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>WEGGEG wegcategorie formeel</name>
+		<name>WEGGEG wegcategorie</name>
 		<id>WEGGEG_WEGCATEGORIE_FORMEEL</id>
 		<category>map</category>
 		<description lang="en">Wegkenmerk wegcategorie formeel met geometrie op wegvakniveau (RWS): wegcategorie_formeel_wegvak</description>
@@ -37,7 +37,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>WEGGEG maximum snelheden overdag</name>
+		<name>WEGGEG maximumsnelheid dag</name>
 		<id>WEGGEG_MAXIMUM_SNELHEDEN_OVERDAG</id>
 		<category>map</category>
 		<description lang="en">Wegkenmerk maximum snelheden met geometrie op wegvakniveau (RWS): maximum_snelheden_wegvak_overdag</description>
@@ -49,7 +49,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>WEGGEG maximum snelheden nacht</name>
+		<name>WEGGEG maximumsnelheid nacht</name>
 		<id>WEGGEG_MAXIMUM_SNELHEDEN_NACHT</id>
 		<category>map</category>
 		<description lang="en">Wegkenmerk maximum snelheden met geometrie op wegvakniveau (RWS): maximum_snelheden_wegvak_nacht</description>
@@ -61,7 +61,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>KernGis beheersituatie</name>
+		<name>KernGis beheergrens</name>
 		<id>KERNGIS_BEHEERSITUATIE</id>
 		<category>map</category>
 		<description lang="en">Beheersituatie KernGis (vlakken)</description>
@@ -73,7 +73,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Overijssel wegencategorisering</name>
+		<name>Overijssel wegcategorie</name>
 		<id>OVERIJSSEL_WEGENCATEGORISERING</id>
 		<category>map</category>
 		<description lang="en">Wegencategorisering op provinciale wegen</description>
@@ -85,24 +85,24 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Gelderland eigendomsgebied</name>
-		<id>GELDERLAND_EIGENDOMSGEBIED</id>
+		<name>Gelderland beheergrens</name>
+		<id>GELDERLAND_BEHEERGEBIED</id>
 		<category>map</category>
-		<description lang="en">Grenzen- Eigendomsgebied prov. wegen en gronden</description>
+		<description lang="en">Grenzen- Beheergebied provinciale wegen</description>
 		<type>wms</type>
-		<url>https://geoserver.gelderland.nl/geoserver/ngr_bow/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=GzEg_Eigendomsgebied&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<url>https://geoserver.gelderland.nl/geoserver/ngr_bow/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=GzEg_Beheergebied&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
 		<attribution-url>https://www.gelderland.nl/</attribution-url>
 		<attribution-text>Provincie Gelderland</attribution-text>
 		<country-code>NL</country-code>
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Gelderland beheergebied</name>
-		<id>GELDERLAND_BEHEERGEBIED</id>
+		<name>Gelderland eigendomsgrens</name>
+		<id>GELDERLAND_EIGENDOMSGEBIED</id>
 		<category>map</category>
-		<description lang="en">Grenzen- Beheergebied provinciale wegen</description>
+		<description lang="en">Grenzen- Eigendomsgebied prov. wegen en gronden</description>
 		<type>wms</type>
-		<url>https://geoserver.gelderland.nl/geoserver/ngr_bow/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=GzEg_Beheergebied&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<url>https://geoserver.gelderland.nl/geoserver/ngr_bow/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=GzEg_Eigendomsgebied&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
 		<attribution-url>https://www.gelderland.nl/</attribution-url>
 		<attribution-text>Provincie Gelderland</attribution-text>
 		<country-code>NL</country-code>
@@ -157,7 +157,31 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Limburg beperkingenzone provinciale wegen</name>
+		<name>Zeeland wegbeheerder waterschap Scheldestromen</name>
+		<id>ZEELAND_HARTLIJNEN_WEGEN_WSS</id>
+		<category>map</category>
+		<description lang="en">Hartlijn wegen WSS</description>
+		<type>wms</type>
+		<url>https://opengeodata.zeeland.nl/geoserver/Infra/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=geocst_aswwsslin&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<attribution-url>https://www.zeeland.nl/</attribution-url>
+		<attribution-text>Provincie Zeeland</attribution-text>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Zeeland bebouwde kom</name>
+		<id>ZEELAND_BEBOUWDE_KOM</id>
+		<category>map</category>
+		<description lang="en">Verkeerskundige Bebouwdekom</description>
+		<type>wms</type>
+		<url>https://opengeodata.zeeland.nl/geoserver/ruimte/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=geocst_bbkvrkwetvstvlk&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<attribution-url>https://www.zeeland.nl/</attribution-url>
+		<attribution-text>Provincie Zeeland</attribution-text>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
+	<entry overlay="true">
+		<name>Limburg beperkingengebied</name>
 		<id>LIMBURG_BEPERKINGENGEBIED</id>
 		<category>map</category>
 		<description lang="en">INFRASTRUCTUUR.beperkingengebied_v</description>
@@ -181,7 +205,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Limburg toegestane maximum snelheid</name>
+		<name>Limburg maximumsnelheid</name>
 		<id>LIMBURG_TOEGESTANE_MAXIMUM_SNELHEID</id>
 		<category>map</category>
 		<description lang="en">INFRASTRUCTUUR.max_snelheden_l</description>
