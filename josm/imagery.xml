@@ -109,12 +109,12 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Utrecht beheergrens</name>
-		<id>UTRECHT_BEHEERGRENS</id>
+		<name>Utrecht beheergrenzen</name>
+		<id>UTRECHT_BEHEERGRENZEN</id>
 		<category>map</category>
-		<description lang="en">Beheergrens</description>
+		<description lang="en">Beheergrenzen</description>
 		<type>wms</type>
-		<url>https://services.geodata-utrecht.nl/geoserver/v01_2_1_wegennet/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=Beheergrens&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<url>https://services.geodata-utrecht.nl/geoserver/v01_2_1_wegennet/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=Beheergrenzen&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
 		<attribution-url>https://www.provincie-utrecht.nl/</attribution-url>
 		<attribution-text>Provincie Utrecht</attribution-text>
 		<country-code>NL</country-code>
