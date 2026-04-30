@@ -109,7 +109,7 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Utrecht beheergrenzen</name>
+		<name>Utrecht beheer- en onderhoudsgrens</name>
 		<id>UTRECHT_BEHEERGRENZEN</id>
 		<category>map</category>
 		<description lang="en">Beheergrenzen</description>
