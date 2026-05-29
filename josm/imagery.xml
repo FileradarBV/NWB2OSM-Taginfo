@@ -121,12 +121,12 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>Noord-Holland werkingsgebied</name>
-		<id>NOORDHOLLAND_WERKINGSGEBIED</id>
+		<name>Noord-Holland beperkingengebied</name>
+		<id>NOORDHOLLAND_BEPERKINGENGEBIED</id>
 		<category>map</category>
-		<description lang="en">Werkingsgebied - Provinciale wegen</description>
+		<description lang="en">Beperkingengebied provinciale wegen</description>
 		<type>wms</type>
-		<url>https://geoservices.noord-holland.nl:443/ags/services/oi_dataservice_povnh2020/MapServer/WmsServer?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=Provinciale_wegen2357&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<url>https://geoservices.noord-holland.nl:443/ags/services/oi_dataservice_povnh2020/MapServer/WMSServer?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=Beperkingengebied_provinciale_wegen40429&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
 		<attribution-url>https://www.noord-holland.nl/</attribution-url>
 		<attribution-text>Provincie Noord-Holland</attribution-text>
 		<country-code>NL</country-code>
