@@ -61,12 +61,12 @@
 		<valid-georeference>true</valid-georeference>
 	</entry>
 	<entry overlay="true">
-		<name>KernGis beheergrens</name>
-		<id>KERNGIS_BEHEERSITUATIE</id>
+		<name>Geografische Areaalregistratie beheergrens droog</name>
+		<id>GEOGRAFISCHE_AREAALREGISTRATIE_BEHEER_DROOG</id>
 		<category>map</category>
-		<description lang="en">Beheersituatie KernGis (vlakken)</description>
+		<description lang="en">Geografische Areaalregistratie: beheer droog (vBeheer_droog_func)</description>
 		<type>wms</type>
-		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/kerngis_droog/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=kerngis_droog:beheergebied_vlakken&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<url>https://geo.rijkswaterstaat.nl/services/ogc/gdr/geografische_areaalregistratie/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=beheer_droog&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
 		<attribution-url>https://www.rijkswaterstaat.nl/</attribution-url>
 		<attribution-text>Rijkswaterstaat</attribution-text>
 		<country-code>NL</country-code>
