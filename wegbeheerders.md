@@ -19,6 +19,7 @@ Wegbeheerders
 |  | [Staatsbosbeheer](https://www.staatsbosbeheer.nl/) | `NL` |
 |  | Spoorwegen → [ProRail](https://www.prorail.nl/) | `NL` |
 |  | PWN Waterleidingbedr Noord-Holland → [N.V. PWN Waterleidingbedrijf Noord-Holland](https://www.pwn.nl/) | `NL-NH` |
+|  | Overige instanties in Schiphol → [N.V. Luchthaven Schiphol](https://www.schiphol.nl/nl/) | `NL-NH` |
 |  | Havenbedrijf Rotterdam → [Havenbedrijf Rotterdam N.V.](https://www.portofrotterdam.com/nl) | `NL-ZH` |
 |  | NV Westerscheldetunnel → [N.V. Westerscheldetunnel](https://www.westerscheldetunnel.nl/nl/) | `NL-ZE` |
 |  | North Sea Port → [North Sea Port Netherlands NV](https://www.northseaport.com/) | `NL-ZE` |
