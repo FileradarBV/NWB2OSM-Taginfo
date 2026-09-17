@@ -16,6 +16,7 @@ Wegbeheerders
 | <img alt="pv29" src="afbeeldingen/vlaggen/pv29.svg" width="30" height="20"> | [Provincie Zeeland](https://www.zeeland.nl/) | `NL-ZE` |
 | <img alt="pv30" src="afbeeldingen/vlaggen/pv30.svg" width="30" height="20"> | [Provincie Noord-Brabant](https://www.brabant.nl/) | `NL-NB` |
 | <img alt="pv31" src="afbeeldingen/vlaggen/pv31.svg" width="30" height="20"> | [Provincie Limburg](https://www.limburg.nl/) | `NL-LI` |
+|  | HHS Schieland en de Krimpenerwaard → [Hoogheemraadschap van Schieland en de Krimpenerwaard](https://www.schielandendekrimpenerwaard.nl/) | `NL-ZH` |
 |  | [Waterschap Scheldestromen](https://scheldestromen.nl/) | `NL-ZE` |
 |  | [Staatsbosbeheer](https://www.staatsbosbeheer.nl/) | `NL` |
 |  | Spoorwegen → [ProRail](https://www.prorail.nl/) | `NL` |
