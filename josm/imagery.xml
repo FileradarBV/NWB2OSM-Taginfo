@@ -216,4 +216,16 @@
 		<country-code>NL</country-code>
 		<valid-georeference>true</valid-georeference>
 	</entry>
+	<entry overlay="true">
+		<name>Scheldestromen wegcategorie</name>
+		<id>SCHELDESTROMEN_WATERSCHAPSWEGEN</id>
+		<category>map</category>
+		<description lang="en">EXT_WE_Wegen: Waterschapswegen</description>
+		<type>wms</type>
+		<url>https://geo.scheldestromen.nl/arcgis/services/Extern/EXT_WE_Wegen/MapServer/WMSServer?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=Waterschapswegen&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}</url>
+		<attribution-url>https://scheldestromen.nl/</attribution-url>
+		<attribution-text>Waterschap Scheldestromen</attribution-text>
+		<country-code>NL</country-code>
+		<valid-georeference>true</valid-georeference>
+	</entry>
 </imagery>

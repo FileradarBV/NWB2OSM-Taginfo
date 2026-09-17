@@ -16,6 +16,7 @@ Wegbeheerders
 | <img alt="pv29" src="afbeeldingen/vlaggen/pv29.svg" width="30" height="20"> | [Provincie Zeeland](https://www.zeeland.nl/) | `NL-ZE` |
 | <img alt="pv30" src="afbeeldingen/vlaggen/pv30.svg" width="30" height="20"> | [Provincie Noord-Brabant](https://www.brabant.nl/) | `NL-NB` |
 | <img alt="pv31" src="afbeeldingen/vlaggen/pv31.svg" width="30" height="20"> | [Provincie Limburg](https://www.limburg.nl/) | `NL-LI` |
+|  | [Waterschap Scheldestromen](https://scheldestromen.nl/) | `NL-ZE` |
 |  | [Staatsbosbeheer](https://www.staatsbosbeheer.nl/) | `NL` |
 |  | Spoorwegen → [ProRail](https://www.prorail.nl/) | `NL` |
 |  | PWN Waterleidingbedr Noord-Holland → [N.V. PWN Waterleidingbedrijf Noord-Holland](https://www.pwn.nl/) | `NL-NH` |
