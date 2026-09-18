@@ -16,6 +16,7 @@ Wegbeheerders
 | <img alt="pv29" src="afbeeldingen/vlaggen/pv29.svg" width="30" height="20"> | [Provincie Zeeland](https://www.zeeland.nl/) | `NL-ZE` |
 | <img alt="pv30" src="afbeeldingen/vlaggen/pv30.svg" width="30" height="20"> | [Provincie Noord-Brabant](https://www.brabant.nl/) | `NL-NB` |
 | <img alt="pv31" src="afbeeldingen/vlaggen/pv31.svg" width="30" height="20"> | [Provincie Limburg](https://www.limburg.nl/) | `NL-LI` |
+|  | [Waterschap Rivierenland](https://www.waterschaprivierenland.nl/) | `NL` |
 |  | HHS Hollands Noorderkwartier → [Hoogheemraadschap Hollands Noorderkwartier](https://www.hhnk.nl/) | `NL-NH` |
 | <img alt="ws0655" src="afbeeldingen/vlaggen/ws0655.svg" width="30" height="20"> | Waterschap De Hollandse Delta → [Waterschap Hollandse Delta](https://www.wshd.nl/) | `NL-ZH` |
 |  | HHS Schieland en de Krimpenerwaard → [Hoogheemraadschap van Schieland en de Krimpenerwaard](https://www.schielandendekrimpenerwaard.nl/) | `NL-ZH` |
